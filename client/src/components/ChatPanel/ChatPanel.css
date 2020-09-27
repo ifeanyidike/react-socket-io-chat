@@ -1,0 +1,12 @@
+* {
+  margin: 0;
+}
+.chatpanel {
+  display: flex;
+  justify-content: space-between;
+}
+
+.chatpanel__right {
+  flex: 1;
+  border-left: 1px solid #ddd;
+}
